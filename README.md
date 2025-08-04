@@ -28,7 +28,9 @@ The dashboard is designed to help **banking analysts, branch managers, and decis
 ---
 
 ## 📌 Why This Project Was Needed  
-Banks often store vast amounts of customer and transaction data across multiple sheets and reports. This dashboard solves the need for:
+Banks often store vast amounts of customer and transaction data across multiple sheets and reports. 
+
+This dashboard solves the need for:
 
 Quick visibility of account types and usage trends
 
