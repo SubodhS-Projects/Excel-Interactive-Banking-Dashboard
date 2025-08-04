@@ -32,13 +32,13 @@ Banks often store vast amounts of customer and transaction data across multiple 
 
 This dashboard solves the need for:
 
--Quick visibility of account types and usage trends
+- Quick visibility of account types and usage trends
 
--Identifying high- and low-risk customers
+- Identifying high- and low-risk customers
 
--Understanding customer transaction preferences
+- Understanding customer transaction preferences
 
--Drilling down into customer-level behavior
+- Drilling down into customer-level behavior
 
 Everything is consolidated into one Excel interface, reducing the need for complex tools or coding.
 
