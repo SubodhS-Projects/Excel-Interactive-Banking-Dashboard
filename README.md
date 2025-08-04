@@ -7,15 +7,17 @@
 ## 🎯 Project Overview
 This **Excel-based Interactive Banking Dashboard** provides organizations with **real-time, filterable insights** into:
 
-🏦 Branch-wise account distribution
+🏦 Account type distribution
 
-💰 Total deposits and loans
+📈 Average monthly transactions per customer
 
-📈 Loan-to-deposit ratios
+📊 Preferred transaction methods
 
-🧑‍💼 Customer segmentation
+⚠️ Customer risk categories
 
-The dashboard is designed to help **supply chain managers, procurement teams, and executives** quickly identify bottlenecks, reduce costs, and improve operational efficiency — all within **Microsoft Excel**.
+🔍 Customer-level filtering by ID
+
+The dashboard is designed to help **banking analysts, branch managers, and decision-makers** quickly identify bottlenecks, reduce costs, and improve operational efficiency — all within **Microsoft Excel**.
 
 ---
 
@@ -26,14 +28,19 @@ The dashboard is designed to help **supply chain managers, procurement teams, an
 ---
 
 ## 📌 Why This Project Was Needed  
-Most businesses store fragmented supply chain data across spreadsheets, making it hard to answer questions like:
+Banks often store vast amounts of customer and transaction data across multiple sheets and reports. This dashboard solves the need for:
 
-- Which city drives the highest sales?
-- Which product category performs best?
-- Which supplier is cost-effective?
-- Where are the delays happening?
+Quick visibility of account types and usage trends
 
-This dashboard consolidates all supply chain metrics into **a single interactive Excel file**, using **Pivot Tables, Charts, Slicers, and Power Pivot** for easy exploration.
+Identifying high- and low-risk customers
+
+Understanding customer transaction preferences
+
+Drilling down into customer-level behavior
+
+Everything is consolidated into one Excel interface, reducing the need for complex tools or coding.
+
+This dashboard consolidates essential banking data metrics into **a single interactive Excel file**, using **Pivot Tables, Charts, Slicers, and Power Query** for easy exploration.
 
 ---
 
@@ -41,11 +48,11 @@ This dashboard consolidates all supply chain metrics into **a single interactive
 
 | Team/Role              | How It Helps |
 |------------------------|--------------|
-| **Supply Chain Managers** | Identify high- and low-performing suppliers |
-| **Procurement Teams**  | Optimize supplier selection and inventory planning |
-| **Logistics Teams**    | Track city-wise sales and supplier performance |
-| **Executives**         | Monitor overall costs and efficiency |
-| **Data Analysts**      | Explore trends using interactive filters |
+| **Branch Managers** | View active customer patterns & preferences |
+| **Banking Analysts** | Identify risk exposure & transaction behavior |
+| **Risk & Compliance** | Monitor high-risk customers |
+| **Operations Team** | Track product adoption (e.g., account types) |
+| **Customer Service** | Understand client habits for personalization |
 
 ---
 
