@@ -65,9 +65,9 @@ This dashboard consolidates essential banking data metrics into **a single inter
 
 ### Steps to Explore
 1. Clone this repository or download `Banking_Interactive_Dashboard.zip`
-3. Extract the `Banking_Interactive_Dashboard.zip` on your computer
-4. Open `Banking_Interactive_Dashboard.xlsx`
-5. Explore each report section using slicers and filters
+2. Extract the `Banking_Interactive_Dashboard.zip` on your computer
+3. Open `Banking_Interactive_Dashboard.xlsx`
+4. Explore each report section using slicers and filters
    
 Use slicers to filter by:
    
@@ -81,7 +81,7 @@ Use slicers to filter by:
 
 📊 Average Monthly Transactions
 
-6. Review charts and KPIs for insights
+5. Review charts and KPIs for insights
 
 ---
 
