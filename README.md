@@ -64,17 +64,22 @@ This dashboard consolidates essential banking data metrics into **a single inter
 - Microsoft Excel 2016 or later 
 
 ### Steps to Explore
-1. Clone this repository or download `Supply_Chain_Dashboard.zip`
-3. Extract the `Supply_Chain_Dashboard.zip` on your computer
-4. Open `Supply_Chain_Dashboard.xlsx`
+1. Clone this repository or download `Banking_Interactive_Dashboard.zip`
+3. Extract the `Banking_Interactive_Dashboard.zip` on your computer
+4. Open `Banking_Interactive_Dashboard.xlsx`
 5. Explore each report section using slicers and filters
    
 Use slicers to filter by:
-   - 📅 Year & Month
-   - 📍 City
-   - 🏢 Supplier
-   - 🏷️ Product Category
-5. Review charts and KPIs for insights
+   👤 Customer ID
+
+🏦 Account Type
+
+💳 Preferred Transaction Method
+
+⚠️ Risk Category
+
+📊 Average Monthly Transactions
+6. Review charts and KPIs for insights
 
 ---
 
