@@ -70,7 +70,8 @@ This dashboard consolidates essential banking data metrics into **a single inter
 5. Explore each report section using slicers and filters
    
 Use slicers to filter by:
-   👤 Customer ID
+   
+👤 Customer ID
 
 🏦 Account Type
 
