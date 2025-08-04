@@ -79,6 +79,7 @@ Use slicers to filter by:
 ⚠️ Risk Category
 
 📊 Average Monthly Transactions
+
 6. Review charts and KPIs for insights
 
 ---
@@ -95,11 +96,11 @@ Use slicers to filter by:
 
 ## 📋 Dashboard Contents
 
-- **Cities vs Total Sales** – Compare city sales performance
-- **Category vs Total Sales** – Donut chart breakdown
-- **Shipping Cost per Supplier** – Cost efficiency chart
-- **Supplier vs Max Lead Time** – Lead time comparison
-- **Dynamic Filtering** – Filter by year, month, category, supplier, and city
+- **Account Type Breakdown** –  Bar chart showing count per account type
+- **Preferred Transaction Method** – % distribution across options
+- **Average Monthly Transactions** – Customer-level activity bar chart
+- **Risk Category Analysis** – Line chart tracking high/low/medium-risk customers
+- **Dynamic Slicers** – Instant filtering for customer ID, transaction method, and risk type
 
 ---
 
@@ -107,29 +108,32 @@ Use slicers to filter by:
 
 | Metric               | Insight |
 |----------------------|---------|
-| **Top City**         | Pune – ₹116,000 sales |
-| **Top Category**     | Electronics – 75% of total sales |
-| **Highest Cost**     | Supplier Z – 117 units shipping cost |
-| **Lowest Category Share** | Accessories – 4% |
+| **Most Common Account Type** | Joint & Checking |
+| **Top Transaction Method** | Cheque & Branch Visit (28%) |
+| **Highest Activity Customer** | CUST1046 – 99 monthly tranactions |
+| **Risk Trend** | High-risk customer count: 12 |
 
 ---
 
 ## ✅ Recommendations
 
-- ⚠️ Negotiate better lead times with Supplier Z
-- 📦 Focus inventory planning on Electronics
-- 📉 Reduce shipping costs from high-expense suppliers
-- 🚀 Optimize delivery performance in top sales cities
+- 🔍 Focus engagement on customers with high transaction volumes
+
+- 📉 Explore reduction strategies for high-risk profiles
+
+- 🏦 Promote mobile/online banking adoption
+
+- 📊 Use account-type data to guide product targeting
 
 ---
 
 ## 🧾 Summary & Preview
 
-This dashboard delivers **end-to-end supply chain visibility** in Excel, giving teams the power of **BI tools without leaving the spreadsheet**.
+This dashboard transforms banking data into an easy-to-use, visually rich interface — enabling data-backed decisions directly from Excel.
 
-> 💡 *"A clear supply chain is a controlled supply chain — this dashboard makes it visual."*
+💡 “Empowering banks with visual clarity — one dashboard at a time.”
 
-![Dashboard Preview](Screenshot_Excel-Interactive%20Supply-Chain%20Dashboard.png)
+![Dashboard Preview](Screenshot_https://github.com/SubodhS-Projects/Excel-Interactive-Banking-Dashboard/blob/main/Screenshot_Excel-Banking_%20Interactive_Dashboard.png)
 
 ---
 
