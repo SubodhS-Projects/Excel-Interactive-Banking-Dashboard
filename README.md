@@ -134,7 +134,8 @@ This dashboard transforms banking data into an easy-to-use, visually rich interf
 
 💡 “Empowering banks with visual clarity — one dashboard at a time.”
 
-![Dashboard Preview](Screenshot_https://github.com/SubodhS-Projects/Excel-Interactive-Banking-Dashboard/blob/main/Screenshot_Excel-Banking_%20Interactive_Dashboard.png)
+![Dashboard Preview](https://github.com/SubodhS-Projects/Excel-Interactive-Banking-Dashboard/blob/main/Screenshot_Excel-Banking_%20Interactive_Dashboard.png)
+
 
 ---
 
